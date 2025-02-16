@@ -1,0 +1,8 @@
+Router
+    routerlar faylida qaysi routerga qanaqa so'rovlar kelsa shu so'rovlarni qabul qilib oladi va controllerga yo'naltirvoradi
+
+Controller
+    controllerlar routerga kegan so'rovlarga oid vazifalarni bajarish funksiyasini bajaradi va u funksiya export qilinib router faylida qabul qilib
+    so'rov oldida chaqirib qo'yiladi
+
+    
